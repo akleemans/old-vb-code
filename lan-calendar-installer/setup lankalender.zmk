@@ -1,0 +1,1545 @@
+[V4.8]
+
+false
+0
+0
+0
+false
+
+Automatisch
+false
+
+Lan Kalender 0.2 Setup.exe
+kein
+true
+Standard
+
+C:\Dokumente und Einstellungen\ad\Desktop
+false
+false
+Kein Sound
+true
+true
+true
+true
+true
+true
+false
+<ProgramsDir>
+16777215
+8388608
+16777215
+zentriert
+maximiert
+
+Century Gothic
+16
+Installation Lan Kalender 0.2
+
+Lan Kalender
+FoN_qwx
+0.2
+true
+0
+
+TRUE
+http://
+http://
+http://
+TRUE
+14
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\lang2055\fs16\'a71 Dieses Programm ist Freeware.
+\par 
+\par Das heisst, es darf frei und in unver\'e4nderter Form kostenlos weitergegeben werden, nicht jedoch verkauft, 
+vermietet oder in irgendwelcher Art kommerziell vertrieben werden. Es unterliegt keinem Copyright, es ist jedoch 
+trotzdem verboten, dieses Programm irgendwie zu manipulieren, zu missbrauchen oder zu zweckverfremden.
+\par 
+\par \'a72 Der Programmierer \'fcbernimmt keine Haftung.
+\par 
+\par Der Programmierer \'fcbernimmt keine Haftung f\'fcr eventuell entstandene Sch\'e4den welche direkt oder 
+indirekt durch die Nutzung, Speicherung oder sonst durch irgenwelche Weise durch diese Programm entstehen.
+\par 
+\par }
+FALSE
+4
+{\rtf1\ansi\ansicpg1252\deff0\deflang2055{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\fs16 
+\par }
+false
+false
+false
+false
+false
+false
+HKEY_CLASSES_ROOT
+HKEY_CLASSES_ROOT
+HKEY_CLASSES_ROOT
+HKEY_CLASSES_ROOT
+HKEY_CLASSES_ROOT
+
+
+
+
+
+
+
+
+
+
+false
+0
+[de]
+1
+Standard-Installation: für die meisten Benutzer empfohlen.
+2
+Minimale Installation: diese Option installiert nur die 
+unbedingt notwendigen Dateien.
+2
+Vollständige Installation: diese Option installiert alle 
+Programm-Dateien.
+[en]
+1
+Standard installation: recommended for most users.
+2
+Minimum installation: this option installs the absolutely 
+necessary files only.
+2
+Complete installation: this option installs all of the program 
+files.
+[fr]
+2
+Installation standard: recommandée pour la plupart des 
+utilisateurs.
+2
+Installation minimale: cette option n´installe que les fichiers 
+indispeusables.
+2
+Installation complète: cette option installe tous les fichiers 
+du logiciel.
+[nl]
+2
+Instalacion estandar: recomendada para la mayoria de los 
+usuarios.
+2
+Instalacion minima: esta opcion instala solo los ficheros 
+absolutamente indispensables.
+2
+Instalacion completa: esta opcion instala todos los ficheros 
+del programa.
+[sp]
+2
+Instalação Standard: recomendada para a maioria dos 
+utilizadores.
+2
+Instalação mínima: esta opção instala apenas os ficheiros 
+absolutamente indispensáveis.
+2
+Instalação completa: esta opção instala todos os ficheiros 
+do programa.
+[pg]
+2
+Standaard installatie: aanbevolen voor de meeste 
+gebruikers.
+2
+Minimum installatie: deze optie installeerd de absoluut 
+noodzakelijkste bestanden.
+2
+Volledige installatie: deze optie installeerd al de 
+programmabestanden.
+[it]
+2
+Installazione standard: consigliato per la maggior parte dei 
+casi.
+2
+Installazione minima: questa opzione installa solo i files 
+assolutamente necessari.
+2
+Installazione completa: questa opzione installa tutti i files di 
+programma.
+0
+1
+<UserDir>
+1
+C:\Dokumente und Einstellungen\ad\Desktop\lankalender.exe
+111111112
+0
+0
+0
+Desktop
+
+<UserDir>\lankalender.exe
+Lan Kalender
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRUE
+1
+HKEY_LOCAL_MACHINE
+Software\Microsoft\Windows\CurrentVersion\Run
+
+$InstallPath
+String
+x
+-
+0
+Keine Datei laden
+Datei1
+<UserDir>\lankalender.exe
+
+false
+false
+
+Keine Datei laden
+
+false
+false
+
+FALSE
+<UserDir>\Backup
+TRUE
+FALSE
+FALSE
+0
+
+
+
+
+[Languages]
+0 = Deutsch
+1 = Englisch
+2 = Franzoesisch
+3 = Italienisch
+4 = Niederlaendisch
+5 = Portugiesisch
+6 = Spanisch
+7 = Brasilianisch
+
+[LangID]
+1031 = Deutsch
+3079 = Deutsch
+2055 = Deutsch
+5127 = Deutsch
+4103 = Deutsch
+
+1036 = Franzoesisch
+2060 = Franzoesisch
+3084 = Franzoesisch
+5132 = Franzoesisch
+4108 = Franzoesisch
+
+1046 = Brasilianisch
+
+2070 = Portugiesisch
+
+1034 = Spanisch
+2058 = Spanisch
+3082 = Spanisch
+5130 = Spanisch
+4106 = Spanisch
+6154 = Spanisch
+7178 = Spanisch
+8202 = Spanisch
+9226 = Spanisch
+10250 = Spanisch
+11274 = Spanisch
+12298 = Spanisch
+13322 = Spanisch
+14346 = Spanisch
+15370 = Spanisch
+16394 = Spanisch
+17418 = Spanisch
+18442 = Spanisch
+19466 = Spanisch
+20490 = Spanisch
+
+1043 = Niederlaendisch
+2067 = Niederlaendisch
+
+1040 = Italienisch
+2064 = Italienisch
+
+[Deutsch]
+1 = Aktualisiere Registry...
+2 = Windows muss neugestartet werden. Neustart jetzt durchführen?
+3 = Windows-Neustart
+4 =  Lizenz-Vereinbarungen
+5 = Fehler beim Extrahierungs-Prozess.
+6 = Fehler
+7 = Die Aktivierungsfrist ist abgelaufen!
+8 = Aktivierungsfrist
+9 = Setup wird vorbereitet
+10 = Bitte warten Sie einen Augenblick...
+11 = Das Setup wird vorbereitet. Bitte warten Sie...
+12 = Die Initialisierungsdatei ist defekt! Err
+13 = Projektdatei defekt
+14 = Es ist keine Installation möglich, da sich bereits #13 eine neuere Version auf Ihrem Rechner befindet.
+15 = Information
+16 = Es ist bereits eine neuere Version auf Ihrem Rechner #13 installiert. Möchten Sie trotzdem fortfahren?
+17 = Information
+18 = Das Update kann nicht ausgeführt werden, da keine #13 Vorgängerversion auf Ihrem Rechner gefunden wurde.
+19 = Information
+20=Herzlich willkommen zum Setup von $PrgName.
+21 = Das Setup wurde erfolgreich beendet.
+22 = Herzlich willkommen
+23=Dieses Setup installiert $PrgName auf Ihrem Rechner.
+25=Um Problemen vorzubeugen schließen Sie bitte alle noch aktiven Windows-Anwendungen, bevor Sie mit der Installation fortfahren.
+26 = Weiter >
+27=Klicken Sie auf "Weiter", um mit der Installation fortzufahren oder auf "Abbrechen", um zu beenden.
+28 = Installieren
+29 = Klicken Sie auf "Installieren", um mit der Installation fortzufahren oder auf "Abbrechen", um zu beenden.
+30 = Drucken
+31 = < Zurück
+32 = Abbrechen
+33 = Zustimmen
+34 = Ablehnen
+35 = Beenden
+36 = Windows muss neugestartet werden. Neustart jetzt durchführen?
+37 = Windows-Neustart
+38 = Readme-Text
+39 = Bitte lesen Sie den folgenden Readme-Abschnitt genau durch.
+40 = Installieren
+41 = Lizenz-Vereinbarung
+42 = Bitte lesen Sie die folgende Lizenz-Vereinbarung genau durch.
+43 = Installieren
+44 = Persönliche Benutzerdaten
+45 = Bitte geben Sie Ihre persönlichen Benutzerdaten an.
+46 =  Vorname 
+47 =  Nachname 
+48 =  Name 
+49 =  Organisation 
+50 =  Seriennummer 
+51 = Weiter >
+52 = Installieren
+53 = Die von Ihnen angegebene Seriennummer ist ungültig!
+54 = Installations-Art
+55 = Bitte wählen Sie die Art der Installation aus.
+56 = Installieren
+57 = Zielverzeichnis-Auswahl
+58 = Bitte wählen Sie ein Verzeichnis aus, in das die Anwendung installiert wird.
+59 =  MB Festplattenspeicher benötigt. Freier Festplattenspeicher: 
+60 = Installieren
+61 = Es ist nicht ausreichend Festplattenspeicher #13 vorhanden um die Anwendung zu installieren.
+62 = Festplattenspeicher
+63 = Der Installationsprozess wird durchgeführt.
+64 = Installations-Prozess
+65 = Installations-Prozess läuft...
+66 = Öffne Archiv...
+67 = Gesamtfortschritt
+68 = Weiter >
+69 = Installations-Art
+70 = Bitte wählen Sie die Art der Installation aus.
+71 = Persönliche Benutzerdaten
+72 = Lizenz-Vereinbarung
+73 = Readme-Text
+74 = Herzlich willkommen
+75 = Bitte legen Sie Datenträger 
+76 = ein und klicken auf "OK".
+77 = Datenträger-Wechsel
+78 = Entpacke Dateien...
+79 = Kopiere Datei 
+80 = Während des Kopiervorgangs trat ein Fehler auf.
+81 = Aktualisiere Registry...
+82 = Speichere Benutzerdaten...
+83 = Verknüpfungen erstellen
+84 = Das Setup war erfolgreich.
+85 = Sie können das Setup nun beenden und die installierte Anwendung ausführen.
+86 = Beenden
+87 = Setup-Information
+88 =  Version 
+89 =  ist auf Ihrem System nicht lauffähig!
+90 = 
+91 = Ja
+92 = Nein
+93 = Das Setup ist nicht vollständig. Wenn Sie das Setup beenden, wird das Programm nicht installiert.#13#13Sie müssen das Setup zu einem späteren Zeitpunkt ausführen, wenn Sie das Programm installieren möchten. #13  #13 Möchten Sie das Setup beenden?
+94 = Fortführen
+95 = Setup beenden
+96 = Passwort
+97 = $App starten
+98 = Zur Installation dieser Anwendung werden Administrator-Rechte benötigt. Bitte #13 loggen Sie sich als Administrator ein und starten das Setup erneut.
+99 = Administrator
+100= Backupverzeichnis
+101=  kann nicht installiert werden. #13 Die Datei 
+102= Installation fehlgeschlagen
+103=  wird von einem Programm genutzt. Stellen Sie sicher, das keine andere Anwendung während der Installation gestartet worden ist.
+104= Sicherungsdateien erstellen
+105= Dateien die vom Installationsprogramm überschrieben werden, können Sie in einem separatem Verzeichnis sichern lassen. Dies ist vor allem dann anzuraten, wenn möglicherweise Ihre Daten- dateien überschrieben werden könnten.
+106= Dateien sichern
+107= Durchsuchen
+108= Alle Benutzer
+109= Aktiver Benutzer
+110= Für wen sollen die Verknüpfungen erstellt werden? 
+111= Startmenü
+112= Programme
+113= Desktop
+114= Autostart
+115= Schnellstartleiste
+116= Favoriten
+117= Systemvoraussetzungen
+118= Wiederherstellungspunkt erstellen
+
+[Englisch]
+1 = Modifying registry...
+2 = Windows should be rebooted now. Do you want to reboot now?
+3 = Reboot Windows
+4 =  License agreement
+5 = Error occured while extracting files.
+6 = Error
+7 = Activation period has expired!
+8 = Activation period
+9 = Setup is being prepared
+10 = Please wait a moment...
+11 = Setup is being prepared. Please wait...
+12 = Initialization file is corrupt! Err
+13 = Projectfile corrupt
+14 = Installation impossible as there is already a newer #13 version installed on your computer.
+15 = Information
+16 = There is already a newer version installed on your #13 system. Do you want to continue anyway?
+17 = Information
+18 = The update cannot be executed as there has no #13 previous version been found on your system.
+19 = Information
+20=Welcome to the setup of $PrgName.
+21 = Setup successfully finished.
+22 = Welcome to the setup
+23=This setup will install $PrgName on your system.
+25=To avoid problems please close all running Windows applications before continuing the setup.
+26 = Next >
+27=Click "Next" to continue with the setup or click "Exit" to exit the setup.
+28 = Install
+29 = Click "Install" to continue with the setup or click "Cancel" to exit the setup.
+30 = Print
+31 = < Back
+32 = Exit
+33 = Accept
+34 = Decline
+35 = Close
+36 = Windows should be rebooted now. Do you want to reboot now?
+37 = Reboot Windows
+38 = Readme text
+39 = Please read the following readme text.
+40 = Install
+41 = License agreement
+42 = Please read the following license agreement.
+43 = Install
+44 = Personal user data
+45 = Please enter your personal user data.
+46 =  First name 
+47 =  Last name 
+48 =  Name 
+49 =  Organization 
+50 =  Serial number 
+51 = Next >
+52 = Install
+53 = The serial number you entered is wrong.
+54 = Type of installation
+55 = Please choose the type of installation.
+56 = Install
+57 = Target directory selection
+58 = Please select a directory in which the program files will be installed.
+59 =  MB disk space required. Available disk space: 
+60 = Install
+61 = Not enough disk space available to #13 install the application.
+62 = Disk space
+63 = Executing installation process.
+64 = Installation process
+65 = Installation process is running...
+66 = Opening archive...
+67 = Total progress
+68 = Next >
+69 = Type of installation
+70 = Please choose the type of installation.
+71 = Personal user data
+72 = License agreement
+73 = Readme text
+74 = Welcome to the setup
+75 = Please insert disk number 
+76 = and click the "OK" button.
+77 = Change disk
+78 = Decompressing files...
+79 = Copying file 
+80 = During the copy process an error has occured.
+81 = Modifying registry...
+82 = Saving user data...
+83 = Create shortcuts
+84 = Installation process was finished successfully.
+85 = Now you can exit the setup and start the installed application.
+86 = Close
+87 = Setup information
+88 =  Version 
+89 =  is not executable on your system. 
+90 =  
+91 = Yes
+92 = No
+93 = Setup is not complete. If you quit the setup program now, the program will not be installed. #13  #13 You may run the setup at a later time to complete the installation. #13  #13 Do you want to quit the setup?
+94 = Resume
+95 = Exit Setup
+96 = Password
+97 = Run $App
+98 = They needed administrator rights for the installation of this application. #13 Please, you log in as administrator and restart this Setup
+99 = Administrator
+100= Backup directory
+101=  cannot be installed. #13 The file 
+102= During the installation an error has occured.
+103=  is being used by another program. Make sure that no other application has been started during the installation.
+104= Create backup files
+105= Files that will be replaced by the installation program can be stored in a separate directory. This is recommended when there is a possibility your data files will be replaced.
+106= Store files
+107= Search
+108= All users
+109= Active user
+110= For whom should the shortcuts be created?
+111= Startmenu
+112= Programs
+113= Desktop
+114= Autostart
+115= QuickLaunch
+116= Favorites
+117= System requirements
+118= create restore point
+
+
+[Franzoesisch]
+
+1 = Mise à jour de l´enregistrement...
+2 = Il faut redémarrer Windows maintenant. Voulez-vous redémarrer?
+3 = Redémarrer Windows
+4 =  Accord de licence
+5 = Défaut survenu à la décompression.
+6 = Erreur
+7 = Délai d´activation expiré!
+8 = Délai d´activation
+9 = Préparation du setup
+10 = Un moment svp...
+11 = Setup est en train. Un moment svp...
+12 = Defaut fichier d´initialisation! Err
+13 = Defaut fichier
+14 = Installation impossible puisqu´une version plus récente #13 est déjà installée sur votre ordinateur.
+15 = Information
+16 = Une version plus récente est déjà installée sur votre #13 ordinateur. Voulez-vous continuer quand même?
+17 = Information
+18 = La mise à jour ne s´effectue pas puisqu´une version #13 précédente n´existe pas sur votre ordinateur.
+19 = Information
+20=Bienvenu au setup de $PrgName.
+21 = Le Setup terminé avec succès.
+22 = Bienvenu au setup
+23=Ce setup va installer $PrgName sur votre système.
+25=Afin d´éviter des problèmes fermer toute application Windows encore active avant de continuer l´installation.
+26 = Continuer >
+27=Cliquer sur "Continuer" pour continuer le setup ou cliquer sur "Annuler" pour le quitter.
+28 = Installer
+29 = Cliquer sur "Installer" pour continuer le setup ou cliquer sur "Annuler" pour le quitter.
+30 = Imprimer
+31 = < Retour
+32 = Quitter
+33 = Accepter
+34 = Refuser
+35 = Fermer
+36 = Il faut redémarrer Windows maintenant. Voulez-vous redémarrer?
+37 = Redémarrer Windows
+38 = Texte readme
+39 = Lisez le texte readme suivant svp.
+40 = Installer
+41 = Accord de licence
+42 = Lisez l´accord de licence suivant svp.
+43 = Installer
+44 = Données personnelles
+45 = Entrez vos données personnelles svp.
+46 =  Prénom 
+47 =  Surnom 
+48 =  Nom 
+49 =  Organisation 
+50 =  N° de série 
+51 = Continuer >
+52 = Installer
+53 = Le N° de serie entré est mauvais.
+54 = Type d´installation
+55 = Veuillez choisir le type d´installation.
+56 = Installer
+57 = Sélection du dossier cible
+58 = Choisir un dossier dans lequel vous voulez copier les fichiers du logiciel svp.
+59 =  MB nécessaire capacité du disque. Disponible capacité du disque: 
+60 = Installer
+61 = Capacité du disque insuffisante pour #13 installer l´application.
+62 = Capacité du disque
+63 = Installation en cours.
+64 = Procédure d´installation
+65 = Procédure d´installation en cours...
+66 = Ouverture des archives...
+67 = Etat d´avancement total
+68 = Continuer >
+69 = Type d´installation
+70 = Veuillez choisir le type d´installation.
+71 = Données personnelles
+72 = Accord de licence
+73 = Texte readme
+74 = Bienvenu au setup
+75 = Insérez le support informatique N° 
+76 = et cliquez sur le bouton "OK".
+77 = Support informatique
+78 = Décompression des fichiers...
+79 = Copiage du fichier 
+80 = Pendant le copiage une erreur est survenue.
+81 = Mise à jour de l´enregistrement...
+82 = Sauvegarde des données personnelles...
+83 = Créer des liaisons
+84 = Procédure d´installation terminée avec succès.
+85 = Maintenant vous pouvez quitter le setup et démarrer l´application installée.
+86 = Fermer
+87 = Information setup
+88 =  Version 
+89 =  ne s´exécute pas sur votre système.
+90 =  
+91 = Oui
+92 = Non
+93 = Installation non accomplie. Si vous quittez le setup maintenant, le logiciel ne sera pas installé. #13  #13 Vous pourrez réaliser le setup plus tard afin de terminer l´installation. #13  #13 Voulez-vouz quitter le setup maintenant?
+94 = Continuer
+95 = Quitter Setup
+96 = Mot de passe
+97 = Démarrer $App
+98 = ils ont eu besoin des droits d´administrateur pour l´installation de cette application. #13  s´il vous plaît, vous ouvrez une session comme administrateur et relancez cette installation 
+99 = Administrator
+100= Répertoire de backup
+101=  ne peut pas être installée. #13 Le fichier 
+102= Erreur pendant linstallation
+103=  est en utilisation par une autre application. Mettez sûr, quaucune autre application est lancée pendant la routine d´installation.
+104= Créer une copie des fichiers remplacés
+105= Les fichiers qui vont être remplacés par le programme dinstallation, peuvent être sauver dans un répertoire séparé. Ceci est conseillé surtout si des fichiers personnels contenant des données importantes sont remplacés.
+106= Sauver fichiers
+107= Explorer
+108= Tous les utilisateurs
+109= Utilisateur actif
+110= Pour qui voulez-vous créer les liens? 
+111= Startmenu
+112= Programs
+113= Desktop
+114= Autostart
+115= QuickLaunch
+116= Favorites
+117= Conditions de système
+118= Créer point de restore
+
+
+[Niederlaendisch]
+1 = Register vernieuwen...
+2 = Windows moet opnieuw worden gestart. Wilt U Windows nu opnieuw starten?
+3 = Windows opnieuw starten
+4 =  Gebruikersovereenkomst
+5 = Er is een fout opgetreden tijdens het uitpakken van de bestanden.
+6 = Fout
+7 = De evaluatieperiode is verstreken!
+8 = Evaluatieperiode
+9 = Bezig met het voorbereiden van de installatie
+10 = Een ogenblik geduld alstublieft...
+11 = De setup wordt voorbereid. Een moment geduld alstublieft...
+12 = Gegevens bestand is ongeldig! Err
+13 = Projectbestand ongeldig
+14 = De installatie was niet mogelijk omdat er al een nieuwere #13 versie op uw computer is geïnstalleerd.
+15 = Informatie
+16 = Er is al een nieuwere versie op uw #13 systeem geïnstalleerd. Wilt U de installatie toch voortzetten?
+17 = Informatie
+18 = De update kan niet worden uitgevoerd omdat geen oudere #13 versie in uw systeem werdt gevonden.
+19 = Informatie
+20=Welkom bij de setup van $PrgName.
+21 = Setup werd succesvol beëindigd.
+22 = Welkom bij de setup
+23=Deze setup zal $PrgName op uw systeem installeren.
+25=Om problemen te vermijden sluit al uw lopende Windows toepassingen voordat U verder gaat met de setup.
+26 = Verder >
+27=Klik op "Verder" om met de setup door te gaan of klik op "Annuleren" om de setup te verlaten.
+28 = Installeren
+29 = Klik op "Installeren" om met de setup door te gaan of klik op "Annuleren" om de setup te verlaten.
+30 = Printen
+31 = < Terug
+32 = Annuleren
+33 = Accepteren
+34 = Weigeren
+35 = Sluiten
+36 = Windows moet opnieuw worden gestart. Wilt U Windows nu opnieuw starten?
+37 = Windows wordt opnieuw gestart
+38 = Laatste opmerking bij vrijgave
+39 = Lees de volgende tekst aandachtig door.
+40 = Installeren
+41 = Gebruikersovereenkomst
+42 = Lees de overeenkomst aandachtig door.
+43 = Installeren
+44 = Persoonlijke gebruikersinformatie
+45 = Voer uw persoonlijke gebruikersinformatie in.
+46 =  Voornaam 
+47 =  Achternaam 
+48 =  Naam 
+49 =  Firma 
+50 =  Serienummer 
+51 = Verder >
+52 = Installeren
+53 = Het serienummer dat U gaf is onjuist.
+54 = Installatie vorm
+55 = Kies een installatie vorm.
+56 = Installeren
+57 = Doelmap selecteren
+58 = Selecteer de programmamap waarin U het programma wilt installeren.
+59 =  schijfruimte vereist. Beschikbare schijfruimte: 
+60 = Installeren
+61 = Er is niet genoeg Schijfruimte beschikbaar #13 om de installatie uit te voeren.
+62 = Schijfruimte
+63 = Installatieproces uitvoeren.
+64 = Installatieproces wordt uitgevoerd
+65 = Installatieproces loopt...
+66 = Open archief...
+67 = Totaal vooruitgang
+68 = Verder >
+69 = Installatie vorm
+70 = Kies een installatie vorm.
+71 = Persoonlijke gebruikersinformatie
+72 = Gebruikersovereenkomst
+73 = Laatste opmerking bij vrijgave
+74 = Welkom bij de setup
+75 = Plaats diskette 
+76 = en klik op de "OK" toets.
+77 = Diskette wisselen
+78 = Bestanden uitpakken...
+79 = Bestand kopiëren 
+80 = Er is een fout opgetreden tijdens het kopiëren van de bestanden.
+81 = Register wijzigen...
+82 = Gebruikersinformatie opslaan...
+83 = Maak icoon
+84 = Installatieproces werd succesvol afgesloten.
+85 = U kunt de setup nu verlaten en de geïnstalleerde toepassing starten.
+86 = Sluiten
+87 = Setupinformatie
+88 =  Versie 
+89 =  is niet uitvoerbaar in uw systeem.
+90 =  
+91 = Ja
+92 = Nee
+93 = De setup is nog niet beëindigd. Als U het setupprogramma nu wilt verlaten, zou het programma niet worden geïnstalleerd. #13  #13 U kunt setup later opnieuw uitvoeren om de installatie te hervatten. #13  #13 Wilt U de setup verlaten?
+94 = Hervatten
+95 = Setup verlaten
+96 = Paswoord
+97 = $App starten
+98 = Voor de installatoe van dit onderdeeel zijn beheerdersrechten noodzakelijk. #13 Log in als beheerder en voer de setup opnieuw uit.
+99 = Beheerder
+100= Map voor reservebestanden
+101=  kan niet worden geinstalleerd #13 Het bestand 
+102= Tijdens de installatie is een fout opgetreden.
+103= wordt door een programma gebruikt.
+104= Reservebestanden aanmaken
+105= Bestanden die door het installatieprogramma vervangen worden, kunt u in een aparte folder laten opslaan. Dit is aan te bevelen als mogelijkerwijs uw gegevensbestanden overschreven kunnen worden.
+106= Bestanden opslaan
+107= Zoeken
+108= Alle gebruikers
+109= Huidige gebruiker
+110= Voor wie moeten de snelkoppelingen aangemaakt worden?
+111= Startmenu
+112= Programs
+113= Desktop
+114= Autostart
+115= QuickLaunch
+116= Favorites
+117= System requirements
+118= Restore Point aanmaken
+
+
+[Portugiesisch]
+
+1 = Modificando registo...
+2 = Windows deve ser reinicializado agora. Quer reiniciar-lo agora?
+3 = Reinicializar Windows
+4 =  Acordo de licença
+5 = Orreu um erro ao extrair ficheiro.
+6 = Erro
+7 = Expirou o tempo de activação!
+8 = Período de Activação
+9 = Instalação em preparação
+10 = Por favor aguarde um momento...
+11 = Instalação em preparação. Por favor aguarde...
+12 = Ficheiro de inicialização danificado! Err
+13 = Ficheiro de projecto danificado
+14 = Instalação impossível, pois já tem uma versão mais #13 recente instalada no seu computador.
+15 = Informação
+16 = Já tem uma versão mais recente instalada no seu #13 sistema. Ainda deseja prosseguir?
+17 = Informação
+18 = A actualização não pode ser executada pois não foi #13 encontrada nenhuma versão anterior no seu sistema.
+19 = Informação
+20=Bemvindo à instalação de $PrgName.
+21 = Instalação concluída com sucesso.
+22 = Bemvindo à instalação
+23=Este programa instalará $PrgName no seu sistema.
+25=Para evitar problemas, por favor feche todas as aplicações do Windows antes de prosseguir com a instalação.
+26 = Seguinte >
+27=Clicar "Seguinte" para prosseguir com a instalação ou clique "Sair" para sair do programa de instalação.
+28 = Instalar
+29 = Clicar "Instalar" para prosseguir com a instalação ou clique "Cancelar" para sair do programa de instalação.
+30 = Imprimir
+31 = < Voltar
+32 = Sair
+33 = Aceitar
+34 = Recusar
+35 = Fechar
+36 = Windows deve reinicializar agora. Deseja reinicializar agora?
+37 = Reinicializar Windows
+38 = Texto Ler
+39 = Por favor leia o seguiten texto Ler.
+40 = Instalar
+41 = Acordo de Licença
+42 = Por favor leia o seguinte acordo de licença.
+43 = Instalar
+44 = Dados pessoais do utilizador
+45 = Por favor introduza os seus dados pessoais.
+46 =  Nome próprio 
+47 =  Apelido 
+48 =  Nome 
+49 =  Organização 
+50 =  Número de Série 
+51 = Seguinte >
+52 = Instalar
+53 = O número de série introduzido é falso.
+54 = Tipo de instalação
+55 = Por favor escolha o tipo de instalação.
+56 = Instalar
+57 = Selecção do arquivo de destino
+58 = Por favor seleccione o arquivo onde os ficheiros  do programa serão instalados.
+59 =  MB de espaço no disco necessários. Espaço disponível no disco: 
+60 = Instalar
+61 = Não existe espaço suficiente no seu disco #13 duro para instalar a aplicação.
+62 = Espaço livre no disco duro
+63 = Executando processo de instalação.
+64 = Processo de instalação
+65 = Processo de instalação em curso...
+66 = Abrindo arquivo...
+67 = Evolução total
+68 = Seguinte >
+69 = Tipo de instalação
+70 = Por favor seleccione o tipo de instalação.
+71 = Dados Pessoais do Utilizador
+72 = Acordo de Licença
+73 = Texto Ler
+74 = Bemvindo à Instalação
+75 = Por favor insira o número 
+76 = do disco e clique em "OK".
+77 = Trocar de disco
+78 = Descomprimindo ficheiros...
+79 = Copiando ficheiro 
+80 = Enquanto a cópia se processava ocorreu um erro.
+81 = Modificando registo...
+82 = Guardando dados do Utilizador...
+83 = Criando atalhos
+84 = Instalação concluída com sucesso.
+85 = Agora pode sair do programa de instalação e começar a utilizar a aplicação instalada.
+86 = Fechar
+87 = Informação de Instalação
+88 =  Versão 
+89 =  não é executável no seu sistema.
+90 =  
+91 = Sim
+92 = Não
+93 = Instalação não completa. Se sair do program de instalação agora, o programa não será instalado.  #13  #13  Poderá utilizar o setup mais tarde para completar a instalação.  #13  #13  Quer sair do programa de instalação?
+94 = Retomar
+95 = Sair do Setup
+96 = Palavra Passe
+97 = Iniciar $App
+98 = necessit administrador direita para instalação este aplicação. #13 por favor, você logon como administrador e reinici este instalação 
+99 = Administrador
+100= Diretório de backup
+101=  não pode ser instalado. + #13 + O arquivo 
+102= Ocorreu um erro durante a instalação.
+103=  está sendo usado por outro programa. Nenhuma outra aplicação poderá estar ativa durante a instalação.
+104= Cria arquivos de backup
+105= Recomenda-se salvar em um diretório separado os arquivos que possam ser recobertos por este programa de instalação.
+106= Guarda arquivos
+107= Procura
+108= Todos os  usuários
+109= Usuário ativo
+110= Para quem os atalhos devem ser criados? 
+111= Startmenu
+112= Programs
+113= Desktop
+114= Autostart
+115= QuickLaunch
+116= Favorites
+117= Exigências do sistema
+118= Criando ponto do restore
+
+
+[Spanisch]
+
+1 = Modificando registro...
+2 = Windows deberia ser reiniciado ahora. Quiere reiniciarlo ahora?
+3 = Reinicializar Windows
+4 =  Acuerdo de licencia
+5 = Ha ocurrido un error al extraer archivos.
+6 = Error
+7 = Ha pasado el periodo de activacion!
+8 = Periodo de Activacion
+9 = Instalacion en preparacion
+10 = Por favor espere un momento...
+11 = Instalacion en preparacion. Por favor espere...
+12 = Fichero de inicializacion dañado! Err
+13 = Fichero de proyecto dañado
+14 = Instalacion imposible, debido a la existencia de una version mas reciente #13 instalada en su ordenador.
+15 = Informacion
+16 = Ya tiene una version mas reciente instalada en su #13 sistema. Desea continuar?
+17 = Informacion
+18 = La actualizacion no puede ser ejecutada por no #13 haber sido encontrada ninguna version anterior en su sistema.
+19 = Informacion
+20=Bienvenido a la instalacion $PrgName.
+21 = Instalacion concluida con exito.
+22 = Bienvenido a la instalacion
+23=Este programa instalará $PrgName en su sistema.
+25=Para no tener problemas, por favor cierre todas las aplicaciones de Windows antes de continuar con la instalación.
+26 = Siguiente >
+27=Seleccionar "Siguiente" para continuar con la instalacion o seleccione "Salir" para salir del programa de instalacion.
+28 = Instalar
+29 = Seleccionar "Instalar" para continuar con la instalacion o seleccione "Cancelar" para salir del programa de instalacion.
+30 = Imprimir
+31 = < Volver
+32 = Salir
+33 = Aceptar
+34 = No aceptar
+35 = Salir
+36 = Windows debe reinicializar ahora. Desea reinicializar ahora?
+37 = Reinicializar Windows
+38 = Texto Leer
+39 = Por favor lea el Siguiente texto Leer.
+40 = Instalar
+41 = Acuerdo de Licencia
+42 = Por favor lea el Siguiente acuerdo de licencia.
+43 = Instalar
+44 = Datos personales del usuario
+45 = Por favor introduzca sus datos personales.
+46 =  Nombre 
+47 =  Apellido 
+48 =  Nombre 
+49 =  Organizacion 
+50 =  Numero de Serie 
+51 = Siguiente >
+52 = Instalar
+53 = El numero de serie introducido es incorrecto.
+54 = Tipo de instalacion
+55 = Por favor elija el tipo de instalacion.
+56 = Instalar
+57 = Seleccion de la carpeta de destino
+58 = Por favor seleccione la carpeta donde los ficheros del programa seran instalados.
+59 =  MB de espacio en su disco necesarios. Espacio disponible en el disco: 
+60 = Instalar
+61 = No existe espacio suficiente en su disco duro para #13 instalar la aplicacion.
+62 = Espacio libre en su disco duro
+63 = Ejecutando proceso de instalacion.
+64 = Proceso de instalacion
+65 = Proceso de instalacion en curso...
+66 = Abriendo carpeta...
+67 = Total Instalado
+68 = Siguiente >
+69 = Tipo de instalacion
+70 = Por favor seleccione el tipo de instalacion.
+71 = Datos Personales del usuario
+72 = Acuerdo de Licencia
+73 = Texto Leer
+74 = Bienvenido a la Instalacion
+75 = Por favor introduzca el numero 
+76 = del disco y seleccione "OK".
+77 = Cambiar de disco
+78 = Descomprimiendo ficheros...
+79 = Copiando fichero 
+80 = Mientras la copia se procesaba se ha producido un error.
+81 = Modificando registro...
+82 = Guardando datos del usuario...
+83 = Creando accesos directos
+84 = Instalacion concluida con exito.
+85 = Ahora puede salir del programa de instalacion y empezar a utilizar la aplicacion instalada.
+86 = Cerrar
+87 = Informacion de Instalacion
+88 =  Version 
+89 =  no ejecutable en su sistema.
+90 =  
+91 = Si
+92 = No
+93 = Instalacion incompleta. Si sale del programa de instalacion ahora, el programa no sera instalado.  #13  #13  Podra utilizar el setup mas tarde para completar la instalacion.  #13  #13  Quiere salir del programa de instalacion?
+94 = Continuar
+95 = Salir
+96 = Contraseña
+97 = Arrancar $App
+98 = necesitar administrador derecha para instalación este aplicación. #13  por favor, usted abrir una sesión como administrador y recomenzar este disposición 
+99 = Administrator
+100= Directorio de respaldo
+101=  no se instaló #13 El archivo 
+102= Ha ocurrido un error durante la instalación
+103=  está siendo utilizado por una aplicación. Asegúrese, que ninguna otra aplicación se inicia durante la instalación
+104= Copia de respaldo creada
+105= Es posible que el programa de instalación sobreescriba algunos archivos, usted puede protegerlos en un directorio separado. Esto es muy recomendable, puesto que sus archvios de datos pueden ser sobreescritos
+106= Archivos protegidos
+107= Buscar
+108= Todos los usuarios
+109= Usuario activo
+110= Para quien se van a crear los atajos?
+111= Startmenu
+112= Programs
+113= Desktop
+114= Autostart
+115= QuickLaunch
+116= Favorites
+117= Requisitos del sistema
+118= Creando punto del restore
+
+
+[Italienisch]
+
+1 = Modifica registro in corso...
+2 = Windows deve essere riavviato. Si desidera riavviare ora?
+3 = Riavvio di Windows
+4 =  Accordo di licenza
+5 = Errore durante l´estrazione dei files.
+6 = Errore
+7 = Il periodo di attivazione è scaduto!
+8 = Periodo di attivazione
+9 = Setup in preparazione
+10 = Attendere...
+11 = Setup in preparazione. Attendere...
+12 = File di inizializzazione danneggiato! Err
+13 = File di progetto danneggiato
+14 = Installazione impossibile - esiste già una versione #13 più recente installata sul computer.
+15 = Informazione
+16 = Esiste già una versione più recente installata #13 nel. Si desidera proseguire ugualmente?
+17 = Informazione
+18 = Impossibile eseguire aggiornamento - non #13 è stata trovata una versione precedente.
+19 = Informazione
+20=Benvenuto nel setup di $PrgName.
+21 = Setup completato.
+22 = Benvenuto nel setup
+23=Questo setup installerà $PrgName sul tuo sistema.
+25=Per evitare problemi si consiglia di chiudere tutte le applicazioni Windows attualmente in esecuzione prima di proseguire con il setup.
+26 = Avanti >
+27=Cliccare su "Avanti"  per proseguire il setup o su "Uscita" per terminare il setup.
+28 = Installa
+29 = Cliccare su "Installa" per proseguire il setup o su "Annulla" per terminare il setup.
+30 = Stampa
+31 = < Indietro
+32 = Uscita
+33 = Accetto
+34 = Rifiuto
+35 = Chiudi
+36 = Windows deve essere riavviato. Si desidera riavviare il computer ora?
+37 = Riavvio di Windows
+38 = Testo Leggimi
+39 = Si prega di leggere il seguente testo.
+40 = Installa
+41 = Accordo di licenza
+42 = Si prega di leggere il seguente accordo di licenza.
+43 = Installa
+44 = Dati utente
+45 = Inserire i propri dati anagrafici.
+46 =  Nome 
+47 =  Cognome 
+48 =  Nome 
+49 =  Azienda 
+50 =  Numero di serie 
+51 = Avanti >
+52 = Installa
+53 = Il numero di serie inserito è errato.
+54 = Tipo di installazione
+55 = Scegliere il tipo di installazione.
+56 = Installa
+57 = Selezione directory di installazione
+58 = Selezionare la nella quale saranno installati i files di programma.
+59 =  MB di spazio su disco richiesti. Spazio disponibile su disco: 
+60 = Installa
+61 = Spazio su disco insufficiente per #13 installare il programma.
+62 = Spazio su disco
+63 = Procedura di installazione in esecuzione.
+64 = Procedura di installazione
+65 = Procedura di installazione in corso...
+66 = Apertura archivio...
+67 = Totale completato
+68 = Avanti >
+69 = Tipo di  installazione
+70 = Scegliere il tipo di installazione.
+71 = Dati utente
+72 = Accordo di licenza
+73 = Testo Leggimi
+74 = Benvenuto nel setup
+75 = Inserire il disco numero 
+76 = e cliccare sul pulsante "OK".
+77 = Cambiare disco
+78 = Decompressione files...
+79 = Copia file 
+80 = Si è verificato un errore nel corso del processo di copia.
+81 = Modifica registro...
+82 = Salvataggio dati utente...
+83 = Creazione collegamento
+84 = Processo di installazione completato con successo.
+85 = Potete ora uscire dal setup ed avviare il programma installato.
+86 = Chiudi
+87 = Informazioni di Setup
+88 =  Versione 
+89 =  non è eseguibile su questo sistema.
+90 =  
+91 = Sì
+92 = No
+93 = Il Setup non è stato completato. Uscendo ora il programma  non verrà installato. #13  #13 Si potrà rilanciare il setup successivamente per completare la installazione. #13  #13 Si desidera uscire dal setup?
+94 = Riprendi
+95 = Esci da Setup
+96 = Password
+97 = Avviare $App
+98 = hanno avuto bisogno dei diritti dell´amministratore per l´installazione di questa applicazione. #13 prego, aprite la sessione come amministratore e ricominciate questa messa a punto 
+99 = Administrator
+100= Directory di backup
+101=  non si può installare #13 Il file 
+102= Si è verificato un errore in fase di installazione
+103= è utilizzato da un altro programma. Garanzia, non avviato da altre applicazioni in fase di installazione
+104= File di backup creati
+105= File dal programma di installazione, possono essere sovrascritti per proteggerli in una directory separata. Questo ha essenzialmente lo scopo di avvisarvi che i vostri file di dati potrebbero venire sovrascritti.
+106= File protetti
+107= Ricerca
+108= Tutti gli utenti
+109= Per chi sono state create le icone di avvio rapido ? 
+110= Tutti gli utenti
+111= Startmenu
+112= Programs
+113= Desktop
+114= Autostart
+115= QuickLaunch
+116= Favorites
+117= Requisiti del sistema
+118= Creazione punto di restore
+
+[Brasilianisch]
+
+1 = Modificando o Registro...
+2 = Windows deve ser reinicializado. Reinicializa agora?
+3 = Reinicializa o Windows
+4 =  Contrato de Licença
+5 = Ocorreu erro durante a extração dos arquivos.
+6 = Erro
+7 = O período de ativação está expirado!
+8 = Período de ativação
+9 = Preparando a instalação
+10 = Por favor, aguarde...
+11 = Preparando a instalação. Por favor, aguarde...
+12 = Arquivo de inicialização corrompido! Err
+13 = Arquivo do projeto corrompido
+14 = Instalação impossível. Há uma versão mais #13 nova já instalada em seu sistema.
+15 = Informação
+16 = Há uma versão mais nova já instalada em seu sistema. #13 Continua assim mesmo?
+17 = Informação
+18 = A atualização não pode ser feita porque não há #13 versão anterior em seu sistema.
+19 = Informação
+20=Bem-vindo à instalação de $PrgName.
+21 = A instalação terminou com sucesso.
+22 = Bem-vindo à instalação
+23=Este programa vai instalar
+24 =  em seu sistema.
+25=Para evitar problemas, feche todas as aplicações que estejam rodando antes de continuar a instalação.
+26 = Próximo >
+27=Clique "Próximo" para continuar com a instalação ou clique "Sair" para encerrar.
+28 = Instala
+29 = Clique "Instala" para continuar ou clique "Cancela" para encerrar.
+30 = Imprime
+31 = < Anterior
+32 = Sai
+33 = Aceita
+34 = Desiste
+35 = Fecha
+36 = Windows deve ser reiniciado. Quer reiniciar agora?
+37 = Reinicia Windows
+38 = Texto a ser lido
+39 = Por favor, leia o texto a seguir.
+40 = Instala
+41 = Contrato de licença
+42 = Por favor, leia o Contrato de Licença abaixo.
+43 = Instala
+44 = Dados pessoais do usuário
+45 = Por favor, informe seus dados pessoais.
+46 =  Primeiro nome 
+47 =  Sobrenome 
+48 =  Nome 
+49 =  Organização 
+50 =  Número de Série 
+51 = Próximo >
+52 = Instala
+53 = O número de série informado está incorreto.
+54 = Tipo de instalação
+55 = Por favor, escolha o tipo de instalação.
+56 = Instala
+57 = Seleção do diretório alvo
+58 = Escolha o diretório onde os arquivos de programa serão instalados.
+59 =  MB de espaço em disco requerido. Espaço disponível: 
+60 = Instala
+61 = Espaço em disco insuficiente para #13 a instalação.
+62 = Espaço em disco
+63 = Executando processo de instalação.
+64 = Processo de instalação
+65 = Executando processo de instalação...
+66 = Abrindo arquivo...
+67 = Progresso total
+68 = Próximo >
+69 = Tipo de instalação
+70 = Por favor, escolha o tipo de instalação.
+71 = Dados pessoais do usuário
+72 = Contrato de Licença
+73 = Texto a ser lido
+74 = Bem-vindo à instalação
+75 = Insira o número do disco 
+76 = e clique o botão "OK".
+77 = Mude o disco
+78 = Descompactando os arquivos...
+79 = Copiando arquivo 
+80 = Ocorreu um erro durante o processo de cópia.
+81 = Modifificando o Registro...
+82 = Salvando os dados do usuário...
+83 = Cria atalhos
+84 = O processo de instalção terminou com sucesso.
+85 = Agora você pode sair deste programa e iniciar a aplicação instalada.
+86 = Fecha
+87 = Informe de instalação
+88 =  Versão 
+89 =  Não pode executar no seu sistema (
+90 = Há a possibilidade de algumas funções não funcionarem corretamente. #13#13 Continua com a instalação assim mesmo?
+91 = Sim
+92 = Não
+93 = A instalação não foi completada. Se este instalador for encerrado, o programa não será instalado. #13#13 A instalação poderá ser completada posteriormente em outra execução. #13#13 Quer cancelar a instalação?
+94 = Retorna
+95 = Sair da instalação
+96 = Senha
+97 = Executa $App
+98 = São necessários direitos de administrador para a instalação desta aplicação. #13 Por favor, faça o login como administrador e reinicie a instalação.
+99 = Administrador
+100 = Diretório de Backup
+101 =  não pode ser instalado. #13 O arquivo 
+102 = Ocorreu um erro durante a instalação.
+103 =  está sendo usado por outro programa. Nenhuma outra aplicação poderá estar ativa durante a instalação.
+104 = Cria arquivos de backup
+105 = Recomenda-se salvar em um diretório separado os arquivos que possam ser recobertos por este programa de instalação.
+106 = Guarda arquivos
+107 = Procura
+108 = Todos os  usuários
+109 = Usuário ativo
+110 = Para quem os atalhos devem ser criados?
+111= Startmenu
+112= Programs
+113= Desktop
+114= Autostart
+115= QuickLaunch
+116= Favorites
+117= Requisiti del sistema
+118= Criando ponto do restore
+
+
+
+[Version]
+a1=CompanyName
+b1=
+a2=FileDescription
+b2=
+a3=InternalName
+b3=
+a4=OriginalFilename
+b4=
+a5=ProductName
+b5=
+a6=ProductVersion
+b6=
+a7=eM@il
+b7=
+a8=Produktseite
+b8=
+a9=
+b9=
+Check=0
+
+Language=-1
+[Sonstiges]
+restorepoint=0

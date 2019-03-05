@@ -1,0 +1,114 @@
+un envoi par télécopie,eine Sendung per Fax,-2
+une interrogation,eine Befragung,5
+le milieu,das Milieu,4
+le divorce,die Scheidung,3
+divorcer,sich scheiden lassen,1
+annoncer ca décision,seinen Beschluss bekanntgeben,0
+énerver qn,jdn aufregen,-3
+la figure,das Gesicht,1
+quand même,trotzdem,-2
+une expression,ein Ausdruck,2
+une impression,ein Eindruck,4
+le journal intime,das Tagebuch,2
+être au courant,auf dem Laufenden sein,2
+consoler qn,jdn trösten,1
+raisonnable,vernünftig,3
+actuellement,jetzt,0
+un évènement courant,ein gewöhnliches Ereignis,-3
+le fax,der Fax,0
+faxer,faxen,2
+arranger une chambre,ein Zimmer einrichten,2
+sûrement,sicherlich,2
+un extrait,ein Auszug,3
+le barbecue,die Grillparty,0
+plutôt,eher,-3
+immédiatement,sofort,0
+file,Hau ab!,-1
+l'appendicite,die Blinddarmentzündung,3
+moche,blöd,3
+marrant,lustig,0
+ni pour ni contre,weder dafür noch dagegen,2
+opérer,operieren,2
+une opération,eine Operation,1
+les informations nécessaires,die nötigen Informationen,2
+un débat,eine Debatte,1
+avoir raison,Recht haben,2
+avoir tort,Unrecht haben,2
+parmi,inmitten,-3
+timide,schüchtern,0
+la batterie,das Schlagzeug,-2
+un internaute,ein Internetbenutzer,-1
+surfer sur le Net,im Internet surfen,-1
+avoir ras le bol,die Nase voll haben,-1
+une annonce,eine Anzeige,1
+goûter,kosten,-4
+le goût,der Geschmack,0
+le collégien,der Gymnasiast,-1
+le gosse,der Bub,-2
+les gosses,die Gofen,0
+affectueux,zärtlich,-1
+sentir,fühlen,3
+le sentiment,das Gefühl,-1
+mes sentiments distingués,vorzügliche Hochachtung,-2
+le baiser,der Kuss,-3
+la bise,das Küsschen,-2
+une vieille amitié,eine alte Freundschaft,2
+un geste amical,eine freundschaftliche Geste,0
+les parents,die Verwandten,-1
+la grande Arche,die grosse Arche,0
+se balader,flanieren,-3
+grâce à vous,dank Ihnen,-1
+fabuleux,fantastisch,1
+communiquer avec les autres,sich mit den anderen verständigen,-2
+représenter,darstellen,-2
+le Palais fédéral, das Bundeshaus,-1
+le conseil,der Ratschlag,2
+conseiller,raten,-2
+Je vous remercie.,Ich danke Ihnen.,-2
+un verbe régulier,ein regelmässiges Verb,0
+une forme régulière,eine regelmässige Form,0
+la moitié,die Hälfte,0
+halb ...,moitié ...,-1
+sec,trocken,1
+sécher,trocknen,1
+je sèche,ich trockne,1
+nous séchons,wir trocknen,2
+ils sèchent,sie trocknen,-1
+j'ai séché,ich habe getrocknet,0
+peser 100 kilos,100 Kilo wiegen,-2
+je pèse,ich wiege,1
+nous pesons,wir wiegen,0
+ils pèsent,sie wiegen,0
+j'ai pesé,ich habe gewogen,0
+agir,handeln,-1
+j'agis,ich handle,0
+nous agissons,wir handeln,0
+ils agissent,sie handeln,-1
+j'ai agi,ich habe gehandelt,0
+correspondre,korrespondieren,-1
+je corresponds,ich korrespondiere,0
+nous correspondons,wir korrespondieren,0
+ils correspondent,sie korrespondieren,1
+j'ai correspondu,ich habe korrespondiert,2
+rendre service à qn,jdm einen Dienst erweisen,-4
+se rendre à Paris,sich nach Paris begeben,-1
+je me rends,ich begebe mich,1
+nous nous rendons, wir begeben uns,-2
+ils se rendent, sie begeben sich,-3
+je me suis rendu, ich habe mich begeben,-2
+chaud,heiss,-2
+la chaleur,die Hitze,0
+peindre,malen,0
+la peinture,die Malerei,-3
+le peintre,der Maler,-1
+reprocher,vorwerfen,-2
+justifier,rechtfertigen,-1
+un repas simple,ein einfaches Mahl,-1
+un train lent,ein langsamer Zug,0
+une lumière faible,ein schwaches Licht,0
+un homme libre,ein freier Mann,-1
+manger simplement,einfach essen,3
+avancer lentement,langsam vorankommen,3
+faiblement éclairé,schwach erleuchtet,-2
+bouger librement,sich frei bewegen,0
+saluer amicalement,freundschaftlich grüssen,2
